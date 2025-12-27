@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GitHub Unfollowers</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <main class="container">
+    <h1>GitHub Unfollowers</h1>
+    <p>Descubra quem você segue, mas não te segue de volta.</p>
+
+    <div class="form">
+      <input 
+        type="text" 
+        id="usernameInput" 
+        placeholder="Digite o username do GitHub"/>
+      <button id="analyzeBtn">Analisar</button>
+    </div>
+    <div id="result"></div>
+  </main>
+  <div id="saveModal" class="modal hidden">
+  <div class="modal-content">
+    <h3>Lista salva com sucesso ✅</h3>
+    <p>
+      Esta lista foi salva <strong>localmente neste navegador</strong>.
+      <br />
+      Você pode fechar esta aba e continuar depois.
+    </p>
+    <button id="closeModalBtn">Entendi</button>
+  </div>
+</div>
+
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>

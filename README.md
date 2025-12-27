@@ -71,7 +71,7 @@ Veja o Deploy do Porjeto **[Git Check WebApp](https://git-check-one.vercel.app)*
 
 _> Se você me seguir e der unfollow depois, eu vou saber. Eu criei a ferramenta, lembra?_ 🤨
 
-## PS: Decidi fazer este projeto depois de um tempo sem estudar, e enquanto estudava JS com a construção desta aplicação, 10 Alecrins dourados me seguiram e com certeza uns 5 deles eu vou deletar daqui alguns dias 😜
+PS: Decidi fazer este projeto depois de um tempo sem estudar, e enquanto estudava JS com a construção desta aplicação, 10 Alecrins dourados me seguiram e com certeza uns 5 deles eu vou deletar daqui alguns dias 😜
 
 _Feito com ódio, café ☕, sarcasmo 🥰 e zero paciência para follow fake.😎_
 

@@ -1,18 +1,13 @@
 const analyzeBtn = document.getElementById("analyzeBtn");
 const usernameInput = document.getElementById("usernameInput");
 const resultDiv = document.getElementById("result");
-const GITHUB_TOKEN = "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";
 
 async function fetchAllPages(baseUrl) {
   let page = 1;
   let allResults = [];
 
   while (true) {
-    const response = await fetch(`${baseUrl}?per_page=100&page=${page}`, {
-      headers: {
-        Authorization: `Bearer ${GITHUB_TOKEN}`,
-      },
-    });
+    const response = await fetch(`${baseUrl}?per_page=100&page=${page}`);
 
     if (!response.ok) {
       throw new Error(`${response.status}`);

@@ -13,18 +13,18 @@ Você é um dev sério (ou tenta ser). Você vê um novo seguidor. Você pensa: 
 Passam-se 3 dias...
 A pessoa te dá unfollow.
 
-Agora você é apenas mais um degrau na escada do ego deles.
+Agora você é apenas mais um degrau na escada do ego deles. 💩
 
 ## 🚀 A Solução
 
-**Git Check** não tem piedade. Ele vai fundo na API do GitHub e traz a lista da vergonha: **quem você segue, mas não te segue de volta.**
+**Git Check** não tem piedade. Ele vai fundo na API do GitHub e traz a lista da vergonha: **quem você segue, mas não te segue de volta.** 🤯 Sem julgamentos, sem drama, só dados!
 
 ## 🛠️ Como Funciona
 
-1.  Digite o seu usuário do GitHub (ou o da vítima que você quer analisar) no campo de busca.
+1.  Digite o seu usuário do GitHub (ou o da vítima que você quer analisar 👀) no campo de busca.
 2.  Clique em **Analisar**.
 3.  Aguarde enquanto nosso algoritmo julgador vasculha as listas de _followers_ e _following_.
-4.  **BOOM!** 💣A lista de "traidores" aparece na tela, com foto e nome, prontinha para você passar a tesoura no _unfollow_.
+4.  **BOOM!** 💣 A lista de "traidores" aparece na tela, com foto e nome, prontinha para você passar a tesoura no _unfollow_ ✂️.
 
 ## 🔐 Privacidade, Segurança e Limitações
 
@@ -50,9 +50,9 @@ Este projeto foi desenvolvido com foco em **transparência, segurança e respeit
 
 Se o **Git Check** te ajudou a limpar sua lista de follows 👀, considere apoiar:
 
-- ⭐ **Dê uma Star** no repositório
-- 🍴 **Faça um Fork** para adaptar ou melhorar
-- 👁️ **Watch** para acompanhar atualizações
+- ⭐ **Dê uma Star** no repositório;
+- 🍴 **Faça um Fork** para adaptar ou melhorar;
+- 👁️ **Watch** para acompanhar atualizações.
 
 Isso ajuda o projeto a crescer e motiva novas funcionalidades.
 
@@ -68,4 +68,4 @@ Design e inspiração por **[One Developer](https://onedeveloper.framer.ai)**.
 
 ---
 
-_Feito com ódio e café._ ☕
+_Feito com ódio, café ☕, sarcasmo 🥰 e zero paciência para follow fake.😎_

@@ -26,7 +26,15 @@ Agora você é apenas mais um degrau na escada do ego deles. 💩
 3.  Aguarde enquanto nosso algoritmo julgador vasculha as listas de _followers_ e _following_.
 4.  **BOOM!** 💣 A lista de "traidores" aparece na tela, com foto e nome, prontinha para você passar a tesoura no _unfollow_ ✂️.
 
-## 🔐 Privacidade, Segurança e Limitações
+## � Instale o App (PWA)
+
+Este projeto é um **PWA (Progressive Web App)**. Você pode instalá-lo no seu celular ou computador como um aplicativo nativo!
+
+- **Android:** Abra no Chrome, toque nos três pontinhos e escolha "Instalar aplicativo".
+- **iOS:** Abra no Safari, toque em "Compartilhar" e escolha "Adicionar à Tela de Início".
+- **PC:** Clique no ícone de instalação na barra de endereço.
+
+## �🔐 Privacidade, Segurança e Limitações
 
 O **Git Check** utiliza exclusivamente a **API pública do GitHub**, sem autenticação, apenas para leitura de informações públicas (seguidores e seguidos).
 

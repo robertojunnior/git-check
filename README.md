@@ -69,3 +69,5 @@ Design e inspiração por **[One Developer](https://onedeveloper.framer.ai)**.
 ---
 
 _Feito com ódio, café ☕, sarcasmo 🥰 e zero paciência para follow fake.😎_
+
+**Este projeto utiliza apenas dados públicos da API do GitHub e roda 100% no navegador do usuário.**

@@ -56,9 +56,8 @@ button:hover {
 
 #result {
   margin-top: 24px;
-  padding: 16px;
   border-radius: 8px;
-  background: #111827;
+  /* background: #111827; */
   color: #e5e7eb;
 }
 
@@ -159,32 +158,35 @@ button:hover {
 
 /* Responsive Design */
 @media (max-width: 480px) {
-  #result ul {
-    display: flex;
-    flex-direction: column;
-    max-width: 100%;
-  }
-
   .form {
   margin-top: 10px;
   display: flex;
   flex-direction: column;
   font-size: 16px;
-  gap: 12px;
   }
 
   #usernameInput {
-    padding: 14px;
-    font-size: 16px;
+  padding: 14px;
+  font-size: 16px;
   }
+
+  #result {
+    padding: 0;
+  }
+  
+  #result ul {
+  grid-template-columns: repeat(2, 1fr);
+  }
+
+ 
   .user-item {
-    padding: 16px;
+    padding: 16px 10px 4px;
     flex-direction: column;
   }
 
   .user-item img {
-    width: 40px;
-    height: 40px;
+    width: 80px;
+    height: 80px;
   }
 
   .user-item span {
@@ -193,8 +195,8 @@ button:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 16px;
-    font-weight: 600; 
+    font-size: 80%;
+    font-weight: 500; 
   }
 }
 

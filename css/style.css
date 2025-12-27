@@ -273,6 +273,7 @@ footer a {
   font-size:16px;
   margin-bottom: 24px;
   color: #9ca3af;
+  text-align: center;
 }
 
 .faq details {
@@ -285,6 +286,7 @@ footer a {
 
 .faq summary {
   cursor: pointer;
+  font-size: 14px;
   font-weight: 500;
   color: #e5e7eb;
 }

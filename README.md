@@ -26,16 +26,19 @@ Agora você é apenas mais um degrau na escada do ego deles.
 3.  Aguarde enquanto nosso algoritmo julgador vasculha as listas de _followers_ e _following_.
 4.  **BOOM!** 💣A lista de "traidores" aparece na tela, com foto e nome, prontinha para você passar a tesoura no _unfollow_.
 
-## 🔐 Privacidade & Segurança
+## 🔐 Privacidade, Segurança e Limitações
 
-O **Git Check** utiliza a **API pública do GitHub** exclusivamente para leitura de dados públicos (seguidores e seguidos).
+O **Git Check** utiliza exclusivamente a **API pública do GitHub**, sem autenticação, apenas para leitura de informações públicas (seguidores e seguidos).
 
 - 🔒 Nenhuma informação é armazenada
-- 🔑 Nenhum token pessoal do usuário é solicitado
+- 🔑 Nenhum token pessoal é solicitado
 - 👀 Nenhum dado sensível é coletado
-- 💾 Tudo acontece localmente no navegador
+- 💾 Todo o processamento acontece localmente no navegador
 
-Este projeto foi desenvolvido com foco em **transparência e segurança**.
+⚠️ Por utilizar a API pública, o GitHub impõe um limite de **60 requisições por hora por IP**.  
+Para uso pessoal e ocasional, esse limite é mais do que suficiente.
+
+Este projeto foi desenvolvido com foco em **transparência, segurança e respeito à privacidade**.
 
 ## 💻 Tecnologias
 

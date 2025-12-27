@@ -8,10 +8,10 @@ Se você acha que GitHub é Instagram e coleciona seguidores em vez de repositó
 
 ## 😒 O Problema
 
-Você é um dev sério (ou tenta ser). Você vê um novo seguidor. Você pensa: _"Que legal, alguém curtiu meu projeto!"_. Você segue de volta por educação.
+Você é um dev sério (ou tenta ser), você vê um novo seguidor e pensa: _"Que legal, alguém curtiu meu projeto!"_. Você segue de volta por educação.
 
 Passam-se 3 dias...
-A pessoa te dá unfollow.
+A pessoa te dá unfollow 🤥.
 
 Agora você é apenas mais um degrau na escada do ego deles. 💩
 

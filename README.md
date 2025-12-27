@@ -36,7 +36,7 @@ Agora você é apenas mais um degrau na escada do ego deles.
 
 Desenvolvido por **[Roberto Junnior](https://github.com/robertojunnior)**.
 
-_> Se você me seguir e der unfollow depois, eu vou saber. Eu criei a ferramenta, lembra?_
+_> Se você me seguir e der unfollow depois, eu vou saber. Eu criei a ferramenta, lembra?_ 🤨
 
 ## 🤝 Créditos
 

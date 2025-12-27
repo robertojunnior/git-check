@@ -70,10 +70,6 @@ Desenvolvido por **[Roberto Junnior](https://github.com/robertojunnior)**.
 
 _> Se você me seguir e der unfollow depois, eu vou saber. Eu criei a ferramenta, lembra?_ 🤨
 
-## 🤝 Créditos
-
-Design e inspiração por **[One Developer](https://onedeveloper.framer.ai)**.
-
 ---
 
 _Feito com ódio, café ☕, sarcasmo 🥰 e zero paciência para follow fake.😎_

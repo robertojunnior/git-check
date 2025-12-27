@@ -58,7 +58,7 @@ h1 {
 }
 
 p {
-  font-size: 18px;
+  font-size: 16px;
   opacity: 0.8;
 }
 
@@ -227,7 +227,6 @@ footer a {
   grid-template-columns: repeat(2, 1fr);
   }
 
- 
   .user-item {
     padding: 16px 10px 4px 10px;
     flex-direction: column;
@@ -254,4 +253,48 @@ footer a {
   #result ul {
     grid-template-columns: repeat(4, 1fr);
   }
+}
+
+.faq {
+  margin-top: 40px;
+  padding-top: 24px;
+  border-top: 1px solid #1f2933;
+  text-align: left;
+}
+
+.faq h2 {
+  font-size:24px;
+  margin-bottom: 16px;
+  color: #f9fafb;
+  text-align: center;
+}
+
+.faq h3 {
+  font-size:16px;
+  margin-bottom: 24px;
+  color: #9ca3af;
+}
+
+.faq details {
+  background: #0d1117;
+  border: 1px solid #1f2933;
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin-bottom: 10px;
+}
+
+.faq summary {
+  cursor: pointer;
+  font-weight: 500;
+  color: #e5e7eb;
+}
+
+.faq summary::marker {
+  color: #60a5fa;
+}
+
+.faq p {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #c9d1d9;
 }

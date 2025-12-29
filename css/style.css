@@ -27,11 +27,19 @@ body {
 
 header {
   background: #161b22;
-  padding: 16px 32px;
+  padding: 16px 40px;
   border-bottom: 1px solid #30363d;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   align-items: center;
+  gap: 20px;
+}
+
+header p {
+  color: #c9d1d9;
+  font-size: 16px;
+  margin: 0;
+
 }
 
 header nav {
@@ -50,9 +58,9 @@ header a:hover {
 }
 
 .container {
-  max-width: 90vw;
+  max-width: 80vw;
   margin: 40px auto;
-  padding: 20px;
+  padding: 30px;
   background: #161b22;
   border-radius: 8px;
   text-align: center;
@@ -312,6 +320,7 @@ footer a {
 
 #frase-aviso {
   margin-top: 16px;
-  font-size: 12px;
+  font-size: 13px;
   color: #8b949e;
+  padding: 0 20px;
 }

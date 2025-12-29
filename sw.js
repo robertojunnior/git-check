@@ -1,4 +1,4 @@
-const CACHE_NAME = "git-check-v2";
+const CACHE_NAME = "git-check-v1.1";
 const ASSETS = [
   "./",
   "./index.html",

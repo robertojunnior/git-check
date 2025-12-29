@@ -60,7 +60,7 @@ header a:hover {
 .container {
   max-width: 80vw;
   margin: 40px auto;
-  padding: 30px;
+  padding: 60px;
   background: #161b22;
   border-radius: 8px;
   text-align: center;
@@ -68,6 +68,10 @@ header a:hover {
 
 h1 {
   margin-bottom: 8px;
+}
+
+.description {
+  margin-bottom: 12px;
 }
 
 p {
@@ -104,6 +108,13 @@ button:hover {
 
 #analyzeBtn {
   font-size: 16px;
+}
+
+#frase-aviso {
+  margin-top: 20px;
+  font-size: 13px;
+  color: #8b949e;
+  padding: 0 20px;
 }
 
 #result {
@@ -316,11 +327,4 @@ footer a {
   margin-top: 8px;
   font-size: 14px;
   color: #c9d1d9;
-}
-
-#frase-aviso {
-  margin-top: 16px;
-  font-size: 13px;
-  color: #8b949e;
-  padding: 0 20px;
 }

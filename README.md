@@ -69,7 +69,8 @@ Isso ajuda o projeto a crescer e motiva novas funcionalidades.
 Desenvolvido por **[Roberto Junnior](https://github.com/robertojunnior)**. <br>
 Veja o Deploy do Porjeto, simples mas direto ao ponto **[Git Check WebApp](https://git-check-one.vercel.app)**. <br>
 
-<img src=".assets/images/screencapture-gitcheck.png" alt="Descrição da Imagem" width="20%" />
+
+<img src="https://github.com/robertojunnior/git-check/blob/main/assets/screencapture-gitcheck.png?raw=true" alt="Descrição da Imagem" width="100%" />
 
 _> Se você me seguir e der unfollow depois, eu vou saber. Eu criei a ferramenta, lembra?_ 🤨
 

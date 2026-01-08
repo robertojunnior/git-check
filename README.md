@@ -2,7 +2,7 @@
 
 Cansado daquela galera que te segue só para ganhar o _follow back_ e depois desaparece como se nunca tivesse existido? Pois é, humanos sendo humanos, valorizando números de seguidores mais do que commits de qualidade.
 
-Este projeto foi criado exatamente para isso: **pegar no flagra** os espertinhos que te adicionam no GitHub, esperam você seguir de volta, e depois dão _unfollow_ para manter a "ratio" de celebridade tech 😂😹.
+Este projeto foi criado exatamente para isso: **Acaba** os espertinhos que te adicionam no GitHub, esperam você seguir de volta, e depois dão _unfollow_ para manter a "ratio" de celebridade tech 😂😹.
 
 Se você acha que GitHub é Instagram e coleciona seguidores em vez de repositórios, **cuidado**: nós vamos te achar.
 

@@ -1,32 +1,17 @@
-# 🕵️‍♂️ Git Check - O Detector de "Influencers" de Código
+# 🕵️‍♂️ Git Check
 
-Cansado daquela galera que te segue só para ganhar o _follow back_ e depois desaparece como se nunca tivesse existido? Pois é, humanos sendo humanos, valorizando números de seguidores mais do que commits de qualidade.
+O **Git Check** é uma ferramenta prática e amigável para ajudar você a gerenciar suas conexões no GitHub.
+Com ele, é possível identificar facilmente quem você segue, mas que não te segue de volta.
+O objetivo é oferecer uma visão clara sobre sua rede de contatos, de forma simples e transparente.
 
-Este projeto foi criado exatamente para isso: **Acaba** com os espertinhos que te adicionam no GitHub, esperam você seguir de volta, e depois dão _unfollow_ para manter a "ratio" de celebridade tech 😂😹.
+## 🚀 Como Funciona
 
-Se você acha que GitHub é Instagram e coleciona seguidores em vez de repositórios, **cuidado**: nós vamos te achar.
-
-## 😒 O Problema
-
-Você é um dev sério (ou tenta ser), você vê um novo seguidor e pensa: _"Que legal, alguém curtiu meu projeto!"_. Você segue de volta por educação.
-
-Passam-se 3 dias...
-A pessoa te dá unfollow 🤥.
-
-Agora você é apenas mais um degrau na escada do ego deles. 💩
-
-## 🚀 A Solução
-
-**Git Check** não tem piedade. Ele vai fundo na API do GitHub e traz a lista da vergonha: **quem você segue, mas não te segue de volta.** 🤯 Sem julgamentos, sem drama, só dados!
-
-## 🛠️ Como Funciona
-
-1.  Digite o seu usuário do GitHub (ou o da vítima que você quer analisar 👀) no campo de busca.
+1.  Digite o seu usuário do GitHub no campo de busca.
 2.  Clique em **Analisar**.
-3.  Aguarde enquanto nosso algoritmo julgador vasculha as listas de _followers_ e _following_.
-4.  **BOOM!** 💣 A lista de "traidores" aparece na tela, com foto e nome, prontinha para você passar a tesoura no _unfollow_ ✂️.
+3.  Aguarde o processamento das listas de _followers_ e _following_.
+4.  Veja a lista de usuários que não te seguem de volta.
 
-## � Instale o App (PWA)
+## 📱 Instale o App (PWA)
 
 Este projeto é um **PWA (Progressive Web App)**. Você pode instalá-lo no seu celular ou computador como um aplicativo nativo!
 
@@ -68,7 +53,6 @@ Isso ajuda o projeto a crescer e motiva novas funcionalidades.
 
 Desenvolvido por **[Roberto Junnior](https://github.com/robertojunnior)**. <br>
 Veja o Deploy do Porjeto, simples mas direto ao ponto **[Git Check WebApp](https://git-check-one.vercel.app)**. <br>
-
 
 <img src="https://github.com/robertojunnior/git-check/blob/main/assets/screencapture-gitcheck.png?raw=true" alt="Descrição da Imagem" width="100%" />
 
